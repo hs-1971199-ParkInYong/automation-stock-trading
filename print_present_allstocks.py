@@ -26,3 +26,6 @@ def print_name_and_ticker_all_stocks():
         
 #print_name_and_ticker_all_stocks()
 #print_price_all_stocks()
+
+
+#text
